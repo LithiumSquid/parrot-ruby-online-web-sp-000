@@ -3,6 +3,5 @@
 
 
 def parrot(phrase = "Squawk!")
-  phrase = gets.strip
   "#{phrase}"
 end
